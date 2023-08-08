@@ -1,7 +1,7 @@
-### Ola meu nome é Cesar Gabriel 👋
+<h1>Ola meu nome é Cesar Gabriel 👋</h1>
 
 
-Aqui estão algumas informações iniciais sobre meu perfil:
+<h2>Aqui estão algumas informações iniciais sobre meu perfil:</h2>
 
 <a href="https://github.com/CesarGabriel26">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
@@ -10,12 +10,30 @@ Aqui estão algumas informações iniciais sobre meu perfil:
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
 </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<hr>
+<h2>🔭 Linguagens que utilizo atualmente</h2>
+<div>
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+</div>     
+<hr>
+<h2>🌱 Linguagens que estou aprendendo atualmente</h2>
+<div>
+  <img height=30 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />     
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+</div>     
+<hr>
+<h2>🔔 Contate-me</h2>
+<div>
+  <a href="mailto:cesargabrielsousasousa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />     
+  </a>
+</div>     
+<hr>
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 

@@ -4,10 +4,10 @@
 Aqui estão algumas informações iniciais sobre meu perfil:
 
 <a href="https://github.com/CesarGabriel26">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/CesarGabriel26">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
 </a>
 
 - 🔭 I’m currently working on ...

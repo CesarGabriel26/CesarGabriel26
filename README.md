@@ -1,9 +1,14 @@
-### Hi there 👋
+### Ola meu nome é Cesar Gabriel 👋
 
-<!--
-**CesarGabriel26/CesarGabriel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aqui estão algumas informações iniciais sobre meu perfil:
+
+<a href="https://github.com/CesarGabriel26">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/CesarGabriel26">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

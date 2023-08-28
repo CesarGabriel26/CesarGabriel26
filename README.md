@@ -3,12 +3,14 @@
 
 <h2>Aqui estão algumas informações iniciais sobre meu perfil:</h2>
 
-<a href="https://github.com/CesarGabriel26">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
-</a>
-<a href="https://github.com/CesarGabriel26">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
-</a>
+<div>
+    <a href="https://github.com/CesarGabriel26">
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=CesarGabriel26&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/CesarGabriel26">
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGabriel26&layout=compact&theme=gruvbox" />
+  </a>
+</div>
 
 <hr>
 <h2>🔭 Linguagens que utilizo atualmente</h2>

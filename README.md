@@ -21,12 +21,12 @@
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
   <img height=30 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />     
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 </div>     
 <hr>
 <h2>🌱 Linguagens que estou aprendendo atualmente</h2>
 <div>
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 </div>     
 <hr>
 <h2>🔔 Contate-me</h2>

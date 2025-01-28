@@ -57,12 +57,12 @@
   <li><a href="https://cesargabriel26.github.io/PROF_WebSite/">PROF - Um projeto para o senai de um site estilo chat GPT para ser usado em escolas, foi desenvolvido em grupo, membros na descrição do projeto</a></li>
 </ul>
 <hr>
-<h2>🏆 Certificações</h2>
+<!-- <h2>🏆 Certificações</h2>
 <div>
   <img src="https://img.shields.io/badge/Certificação%201-blue" alt="Certificação 1" />
   <img src="https://img.shields.io/badge/Certificação%202-blue" alt="Certificação 2" />
 </div>
-<hr>
+<hr> -->
 <h2>🌐 Conecte-se comigo</h2>
 <div>
     <a href="mailto:cesargabrielsousasousa@gmail.com" target="_blank">
